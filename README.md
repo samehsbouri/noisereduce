@@ -1,7 +1,3 @@
 # noisereduce
-python script that reduces noise from wav file .
-
-#What it does and how it works?
-#The what:
-this program takes wav file and uses noisereduce library to remove noise.
+python script that reduces noise from wav file either by selection the file or recording it.
 
