@@ -12,4 +12,4 @@ La réduction du bruit sert à supprimer les bruits de fond indésirables et à 
 ### [Noisereduce](https://pypi.org/project/noisereduce/) (lien de la bibliothèque)
 
   
-####|Sameh Sbouri|sameh.sbouri@istic.ucar.tn|2-LIRS
+#### |Sameh Sbouri|sameh.sbouri@istic.ucar.tn|2-LIRS
