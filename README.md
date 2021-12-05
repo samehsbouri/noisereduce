@@ -1,5 +1,5 @@
 # noisereduce
-
+![Noisereduce](https://github.com/timsainb/noisereduce/raw/master/assets/noisereduce.png)
 
 ## 1 - Contexte et définition du projet :
 Parfois nous recevons un message vocal avec beaucoup de bruits de fond qui peuvent être ennuyeux et nous ne pouvons pas entendre les choses clairement.
