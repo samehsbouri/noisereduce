@@ -1,7 +1,7 @@
 # noisereduce
 
 
-## **Bold 1 - Contexte et définition du projet :
+## 1 - Contexte et définition du projet :
 Parfois nous recevons un message vocal avec beaucoup de bruits de fond qui peuvent être ennuyeux et nous ne pouvons pas entendre les choses clairement.
 
 
@@ -9,9 +9,7 @@ Parfois nous recevons un message vocal avec beaucoup de bruits de fond qui peuve
 La réduction du bruit sert à supprimer les bruits de fond indésirables et à rendre le son aussi clair que possible. On prend le fichier son original et on applique le filtre pour avoir le résultat.
 
 
-### [Noisereduce](https://pypi.org/project/noisereduce/)
+### [Noisereduce](https://pypi.org/project/noisereduce/) (lien de la bibliothèque)
 
-
-#### |Name|Email|    
-|----|-----|    
-|Sameh Sbouri|sameh.sbouri@istic.ucar.tn|
+  
+####|Sameh Sbouri|sameh.sbouri@istic.ucar.tn|2-LIRS
