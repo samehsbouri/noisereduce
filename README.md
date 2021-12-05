@@ -6,7 +6,10 @@ Parfois nous recevons un message vocal avec beaucoup de bruits de fond qui peuve
 
 
 ## 2- Objectif :
-La réduction du bruit sert à supprimer les bruits de fond indésirables et à rendre le son aussi clair que possible. On prend le fichier son original et on applique le filtre pour avoir le résultat.
+La réduction du bruit sert à supprimer les bruits de fond indésirables et à rendre le son aussi clair que possible. 
+
+### 3-Fonctionnement: 
+Ce projet s'appuie sur une méthode appelée "spectral gating" qui est une forme de Noise Gate. Il fonctionne en calculant un spectrogramme d'un signal (et éventuellement un signal de bruit) et en estimant un seuil de bruit (ou gate) pour chaque bande de fréquence de ce signal/bruit. Ce seuil est utilisé pour calculer un masque, qui élimine le bruit en dessous du seuil variable en fréquence.
 
 
 ### [Noisereduce](https://pypi.org/project/noisereduce/) (lien de la bibliothèque)
